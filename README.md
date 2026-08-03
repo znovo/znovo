@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá! Eu sou o @znovo123 👋
 
-<!--
-**znovo/znovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este perfil é baseado na minha conta principal: **[@znovo](https://github.com/znovo)**.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- Desenvolvedor com foco em projetos em **Python** e **Lua**
+- Interesse em **bots para Discord**, **IA aplicada** e **jogos/simulações**
+- Também crio scripts utilitários para automação e produtividade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologias em destaque
+- Python
+- Lua
+- Discord.py
+- Integrações com IA
+
+## 📌 Projetos da conta principal
+- [verity](https://github.com/znovo/verity) — Bot de Discord com IA, memória por canal e comandos utilitários
+- [incomod](https://github.com/znovo/incomod) — Bot para Discord para “incomodar” amigos
+- [dusty_trip](https://github.com/znovo/dusty_trip) — Jogo topdown em Python com geração procedural
+- [projetos-python](https://github.com/znovo/projetos-python) — Scripts Python para tarefas gerais
+- [projetos-lua](https://github.com/znovo/projetos-lua) — Códigos antigos em Lua
+- [minecraft-toolbox-scripts](https://github.com/znovo/minecraft-toolbox-scripts) — Scripts/toolbox para Minecraft Java e Bedrock
+
+## 🔗 Links
+- Conta principal: https://github.com/znovo
+- Repositórios: https://github.com/znovo?tab=repositories
