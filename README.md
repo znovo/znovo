@@ -1,4 +1,4 @@
-# Olá! Eu sou o @znovo123 👋
+# Olá! Eu sou o @znovo 👋
 
 ## 🚀 Sobre mim
 - Desenvolvedor com foco em projetos em **Python** e **Lua**
