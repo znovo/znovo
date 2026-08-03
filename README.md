@@ -1,7 +1,5 @@
 # Olá! Eu sou o @znovo123 👋
 
-Este perfil é baseado na minha conta principal: **[@znovo](https://github.com/znovo)**.
-
 ## 🚀 Sobre mim
 - Desenvolvedor com foco em projetos em **Python** e **Lua**
 - Interesse em **bots para Discord**, **IA aplicada** e **jogos/simulações**
