@@ -11,7 +11,7 @@
 - Discord.py
 - Integrações com IA
 
-## 📌 Projetos da conta principal
+## 📌 Projetos
 - [verity](https://github.com/znovo/verity) — Bot de Discord com IA, memória por canal e comandos utilitários
 - [incomod](https://github.com/znovo/incomod) — Bot para Discord para “incomodar” amigos
 - [dusty_trip](https://github.com/znovo/dusty_trip) — Jogo topdown em Python com geração procedural
